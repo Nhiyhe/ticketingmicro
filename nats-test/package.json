@@ -43,7 +43,7 @@
     "mkdirp": "^0.5.5",
     "nats": "^1.4.9",
     "node-nats-streaming": "^0.3.2",
-    "node-notifier": "^5.4.3",
+    "node-notifier": "^8.0.1",
     "normalize-package-data": "^2.5.0",
     "nuid": "^1.1.4",
     "object-assign": "^4.1.1",
